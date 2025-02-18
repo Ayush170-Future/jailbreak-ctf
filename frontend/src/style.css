@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Mier-Book';
+    src:
+        local('Mier-Book'),
+        url('./../public/assets/font/MierB-Book.ttf') format('opentype');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
