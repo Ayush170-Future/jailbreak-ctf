@@ -47,7 +47,7 @@ const currencyPrompt = ChatPromptTemplate.fromTemplate(
 );
 
 const model = new ChatOpenAI({
-  modelName: "gpt-3.5-turbo",
+  modelName: "gpt-4o-mini",
   temperature: 0,
 }).withStructuredOutput(currencyConversionFunction);
 
