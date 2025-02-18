@@ -47,3 +47,7 @@ ORCHESTRATION_PATH=<Path where you want to store the logs of agents talking to e
 
 Once the website is live, dive into the chatbot and see if you can bypass its restrictions to uncover the hidden segment. Happy hunting!
 
+## Credits
+
+[Vibhuti](https://github.com/vibhuti5) worked on the frontend and helped refine the initial idea.
+
